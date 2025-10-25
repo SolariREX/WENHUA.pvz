@@ -2,24 +2,24 @@ body {
     background-color:#111;
 }
 @font-face {
-  font-family: '标题字体';
+  font-family: '鏍囬瀛椾綋';
   src: url('font/SourceHanSansSC-Medium.otf') format('opentype');
 }
 
 @font-face {
-  font-family: '正文字体';
+  font-family: '姝ｆ枃瀛椾綋';
   src: url('font/SourceHanSansSC-ExtraLight.otf') format('opentype');
 }
 a {
-    font-family: '正文字体';
+    font-family: '姝ｆ枃瀛椾綋';
 }
 p {
-    font-family: '正文字体';
+    font-family: '姝ｆ枃瀛椾綋';
     font-size:2.4vh;
     color:#fff;
 }
 h1 {
-    font-family: '标题字体';
+    font-family: '鏍囬瀛椾綋';
     font-size:4.9vh;
     color:#fff;
 }
